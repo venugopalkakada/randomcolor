@@ -1,0 +1,12 @@
+body {
+    font-size: 20px;
+}
+  h1{
+   text-align: center;
+  }
+  button {
+  margin-left: 330px;
+  height:300px;
+  width: 300px;
+  font-size: 30px;
+  }
